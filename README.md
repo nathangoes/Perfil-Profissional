@@ -34,35 +34,35 @@ Atualmente sou analista de suporte voltado para a área de Segurança da Informa
 
 ## Educação
 
-Formado em Gestão de Tecnologia da Informação
-Cursando Segurança da Informação
+- Formado em Gestão de Tecnologia da Informação
+- Cursando Segurança da Informação
 
 ## Certificações 
 
-ITIL v3 
-AWS Certified Cloud Practitioner
-Fundamentos em Cibersegurança
-AI - Assisted Certified Professional
-Gen AI Technical Certification
-Ethical Hacking Essentials (processo de certificação, com voucher já adquirido)
+- ITIL v3 
+- AWS Certified Cloud Practitioner
+- Fundamentos em Cibersegurança
+- AI - Assisted Certified Professional
+- Gen AI Technical Certification
+- Ethical Hacking Essentials (processo de certificação, com voucher já adquirido)
 
 ## Cursos Profissionalizantes
 
-Introdução à Azure DevOps (Microsoft)
-Introdução à Cibersegurança (Cisco)
-Dispositivos de rede e configuração inicial (Cisco)
-Noções básicas de rede (Cisco)
-Segurança de Endpoint (Cisco)
+- Introdução à Azure DevOps (Microsoft)
+- Introdução à Cibersegurança (Cisco)
+- Dispositivos de rede e configuração inicial (Cisco)
+- Noções básicas de rede (Cisco)
+- Segurança de Endpoint (Cisco)
 Introdução à Segurança da Informação (eSecurity)
-Tecnologia ao seu alcance: Ética na Cibersegurança (LinkedIn Learning)
-Administrador de Windows Server (Senac)
-Big Data Essentials (4Linux)
-Cibersegurança: Anatomia Clássica de um Ciberataque (FGV)
-Devops Essentials (4Linux)
-EXIN Information Security Foundation Baseado na ISO/IEC 2700 (Udemy)
-Formação Administrador Linux (4Linux)
-Formação LPI - Linux Specialist (Green Treinamento)
-Fundamentos da Segurança desde a Concepção (LinkedIn Learning)
-Fundamentos de DevOps (LinkedIn Learning)
-Gestão Ágil com Scrum (Udemy)
+- Tecnologia ao seu alcance: Ética na - Cibersegurança (LinkedIn Learning)
+- Administrador de Windows Server (Senac)
+- Big Data Essentials (4Linux)
+- Cibersegurança: Anatomia Clássica de um Ciberataque (FGV)
+- Devops Essentials (4Linux)
+- EXIN Information Security Foundation Baseado na ISO/IEC 2700 (Udemy)
+- Formação Administrador Linux (4Linux)
+- Formação LPI - Linux Specialist (Green Treinamento)
+- Fundamentos da Segurança desde a Concepção (LinkedIn Learning)
+- Fundamentos de DevOps (LinkedIn Learning)
+- Gestão Ágil com Scrum (Udemy)
 
