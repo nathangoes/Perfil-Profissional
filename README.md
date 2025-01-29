@@ -1,7 +1,7 @@
 
 # Nathan Góes de Santana
 
-#### Analista Líder | Support | Security | Ethical Hacking | Python | Computer in Cloud | SQL |
+#### Support | Security | Ethical Hacking | Python | Computer in Cloud | Cloud Security |
 (São Paulo/SP - Brasil)
 
 ## Contatos:
@@ -25,13 +25,44 @@
 
 
 ### Soft Skills
-- Liderança, pensamento crítico, habilidade analíticas, gerenciamento de tempo, adaptabilidade, comunicação, documentação
+- Liderança, pensamento crítico, habilidades analíticas, gerenciamento de tempo, adaptabilidade, comunicação, documentação, flexibilidade
 
 
 ## Trajetória profissional
 
-Atualmente sou analista líder, tenho mais de uma década de experiência na área de tecnologia da informação, sendo que iniciei aos 17 anos como técnico de suporte, passando por análise de sistemas EDI, estudos de ética, suporte para dipositivos móveis android, notebook, desktop, tablets;
+Atualmente sou analista de suporte voltado para a área de Segurança da Informação, tenho mais de uma década de experiência na área de tecnologia da informação, sendo que iniciei aos 17 anos como técnico de suporte à infraestrutura, passando posteriormente por análise de sistemas EDI, estudos de ética, suporte para dipositivos móveis android, notebook, desktop, tablets, e suporte ao sistema PeopleSoft (voltado ao projeto do Senac), onde fui reconhecido como recurso sênior e liderança técnica da equipe;
 
 ## Educação
 
-Estou cursando Segurança da Informação, cursos de segurança ofensiva, computação em nuvem e preparatórios para certificações essenciais de cibersegurança.
+Formado em Gestão de Tecnologia da Informação
+Cursando Segurança da Informação
+
+## Certificações 
+
+ITIL v3 
+AWS Certified Cloud Practitioner
+Fundamentos em Cibersegurança
+AI - Assisted Certified Professional
+Gen AI Technical Certification
+Ethical Hacking Essentials (processo de certificação, com voucher já adquirido)
+
+## Cursos Profissionalizantes
+
+Introdução à Azure DevOps (Microsoft)
+Introdução à Cibersegurança (Cisco)
+Dispositivos de rede e configuração inicial (Cisco)
+Noções básicas de rede (Cisco)
+Segurança de Endpoint (Cisco)
+Introdução à Segurança da Informação (eSecurity)
+Tecnologia ao seu alcance: Ética na Cibersegurança (LinkedIn Learning)
+Administrador de Windows Server (Senac)
+Big Data Essentials (4Linux)
+Cibersegurança: Anatomia Clássica de um Ciberataque (FGV)
+Devops Essentials (4Linux)
+EXIN Information Security Foundation Baseado na ISO/IEC 2700 (Udemy)
+Formação Administrador Linux (4Linux)
+Formação LPI - Linux Specialist (Green Treinamento)
+Fundamentos da Segurança desde a Concepção (LinkedIn Learning)
+Fundamentos de DevOps (LinkedIn Learning)
+Gestão Ágil com Scrum (Udemy)
+
