@@ -35,7 +35,7 @@ Atualmente sou analista de suporte voltado para a área de Segurança da Informa
 ## Educação
 
 - Formado em Gestão de Tecnologia da Informação
-- Cursando Segurança da Informação
+- Cursando Pós-Graduação Lato Sensu em Cibersegurança
 
 ## Certificações 
 
